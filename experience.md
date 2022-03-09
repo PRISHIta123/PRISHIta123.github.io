@@ -6,7 +6,7 @@ menutitle: Experience
 <a></a>
 ## Currently
 
-<a style="font-size: 14px;">MEng CS student at Cornell University.</a>
+<a style="font-size: 14px;">MEng CS student at Cornell University. Working on my MEng Project called ShadowSense at the HRC2 lab under Prof. Guy Hoffman. </a>
 
 ## Education
 
@@ -20,6 +20,12 @@ menutitle: Experience
 
 
 ## Research Experience
+
+`Feb 2022- Present`
+<p><a href="https://hrc2.io/" style="color: blue">Human Robot Collaboration and Companionship Lab</a>
+<br><a style="font-size: 14px;"><b>Master of Engineering Project</b></a>
+<br><a style="font-size: 14px;">Mentor: </a><a href="https://hrc2.io/people/guy-hoffman" style="color: blue;font-size: 14px;">Prof. Guy Hoffman</a>
+<br><a style="font-size: 14px;">Topic: ShadowSense</a></p>
 
 `Dec 2020- Present`
 <p><a href="https://carboncopies.org/" style="color: blue">Carboncopies Foundation</a>
@@ -41,12 +47,10 @@ menutitle: Experience
 
 <p style="color: #CC0000"> Research Projects conducted under VIT faculty (School of Computer Science and Engineering):</p>
 
-<!---
-`Feb 2021- Jun 2021`
+`Jan 2021- Jun 2021`
 <p><b>Undergraduate Capstone Project</b>
 <br><a style="font-size: 14px;">Mentor: </a><a href="https://research.vit.ac.in/researcher/geraldine-bessie-amali-d" style="color: blue;font-size: 14px;">Prof. Geraldine Bessie Amali D.</a>
-<br><a style="font-size: 14px;">Topic: Efficient Renewable Energy Powered Automatic Water Dam Control System using RL and NES</a></p>
--->
+<br><a style="font-size: 14px;">Topic: Efficient Renewable Energy Powered Automatic Water Dam Control System</a></p>
 
 `Dec 2019- Feb 2021`
 <p><b>Academic Research Project</b>
