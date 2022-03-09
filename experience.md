@@ -22,7 +22,7 @@ menutitle: Experience
 ## Research Experience
 
 `Feb 2022- Present`
-<p><a href="https://hrc2.io/" style="color: blue">Human Robot Collaboration and Companionship Lab</a>
+<p><a href="https://hrc2.io/" style="color: blue">Human Robot Collaboration and Companionship Lab, Cornell University</a>
 <br><a style="font-size: 14px;"><b>Master of Engineering Project</b></a>
 <br><a style="font-size: 14px;">Mentor: </a><a href="https://hrc2.io/people/guy-hoffman" style="color: blue;font-size: 14px;">Prof. Guy Hoffman</a>
 <br><a style="font-size: 14px;">Topic: ShadowSense</a></p>
@@ -40,7 +40,7 @@ menutitle: Experience
 <br><a style="font-size: 14px;">Topic: Speckle Noise Removal in SAR Images using Wavelet Transform and Neuro-Fuzzy Techniques</a></p>
 
 `May 2019- Jul 2019`
-<p><a href="https://www.csa.iisc.ac.in" style="color: blue">CSA, Indian Institute of Science</a>
+<p><a href="https://www.csa.iisc.ac.in" style="color: blue">Stochastic Systems Lab, CSA, Indian Institute of Science</a>
 <br><a style="font-size: 14px;"><b>SRFP Scholar</b></a>
 <br><a style="font-size: 14px;">Mentor: </a><a href="https://www.csa.iisc.ac.in/~shalabh/" style="color: blue;font-size: 14px;">Dr. Shalabh Bhatnagar</a>
 <br><a style="font-size: 14px;">Topic: Stochastic Game Frameworks for Efficient Energy Management in Microgrid Networks</a></p>
