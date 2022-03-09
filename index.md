@@ -11,6 +11,7 @@ I am a Masters student in Computer Science at <a href="https://www.cornell.edu/"
 
 ## Updates: 
 
+- **[Feb 2022]<a style="color: red">[New!]</a>** Joined the Human Robot Collaboration and Companionship Lab. 
 - **[Jan 2022]<a style="color: red">[New!]</a>** Started Masters program at Cornell University and selected as the lead of BrainGenix-NES. 
 - **[Sept 2021]** Started working as a Machine Learning Engineer at Harman X.
 - **[Aug 2021]** Received the Best Paper Award for presentation at the ICIIC Conference 2021.
