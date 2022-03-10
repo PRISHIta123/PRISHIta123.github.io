@@ -42,7 +42,7 @@ menutitle: Experience
 `May 2019- Jul 2019`
 <p><a href="https://www.csa.iisc.ac.in" style="color: blue">Stochastic Systems Lab, CSA, Indian Institute of Science</a>
 <br><a style="font-size: 14px;"><b>SRFP Scholar</b></a>
-<br><a style="font-size: 14px;">Mentor: </a><a href="https://www.csa.iisc.ac.in/~shalabh/" style="color: blue;font-size: 14px;">Dr. Shalabh Bhatnagar</a>
+<br><a style="font-size: 14px;">Mentor: </a><a href="https://www.csa.iisc.ac.in/~shalabh/" style="color: blue;font-size: 14px;">Prof. Shalabh Bhatnagar</a>
 <br><a style="font-size: 14px;">Topic: Stochastic Game Frameworks for Efficient Energy Management in Microgrid Networks</a></p>
 
 <p style="color: #CC0000"> Research Projects conducted under VIT faculty (School of Computer Science and Engineering):</p>
