@@ -22,7 +22,7 @@ menutitle: Experience
 ## Research Experience
 
 `Feb 2022- Present`
-<p><a href="https://hrc2.io/" style="color: blue">Human Robot Collaboration and Companionship Lab, Cornell University</a>
+<p><a href="https://hrc2.io/" style="color: blue">Human-Robot Collaboration and Companionship Lab, Cornell University</a>
 <br><a style="font-size: 14px;"><b>Master of Engineering Project</b></a>
 <br><a style="font-size: 14px;">Mentor: </a><a href="https://hrc2.io/people/guy-hoffman" style="color: blue;font-size: 14px;">Prof. Guy Hoffman</a>
 <br><a style="font-size: 14px;">Topic: ShadowSense</a></p>
