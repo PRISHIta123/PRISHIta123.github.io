@@ -28,7 +28,7 @@ menutitle: Experience
 <br><a style="font-size: 14px;">Topic: ShadowSense</a></p>
 
 `Dec 2020- Present`
-<p><a href="https://carboncopies.org/" style="color: blue">Carboncopies Foundation</a>
+<p><a href="https://braingenix.org/" style="color: blue">Carboncopies Foundation - BrainGenix</a>
 <br><a style="font-size: 14px;"><b>Researcher</b></a>
 <br><a style="font-size: 14px;">Mentor: </a><a href="https://carboncopies.org/team-member/thomas-liao/" style="color: blue;font-size: 14px;">Thomas Liao</a>
 <br><a style="font-size: 14px;">Topic: BrainGenix-NES: A Novel Neuron Simulation Architecture for Whole Brain Emulation</a></p>
