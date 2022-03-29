@@ -28,7 +28,7 @@ menutitle: Experience
 <br><a style="font-size: 14px;">Topic: ShadowSense</a></p>
 
 `Dec 2020- Present`
-<p><a href="https://carboncopies.org/" style="color: blue">Carboncopies Foundation - BrainGenix</a>
+<p><a href="https://braingenix.org/" style="color: blue">Carboncopies Foundation - BrainGenix</a>
 <br><a style="font-size: 14px;"><b>Researcher</b></a>
 <br><a style="font-size: 14px;">Mentor: </a><a href="https://carboncopies.org/team-member/thomas-liao/" style="color: blue;font-size: 14px;">Thomas Liao</a>
 <br><a style="font-size: 14px;">Topic: BrainGenix-NES: A Novel Neuron Simulation Architecture for Whole Brain Emulation</a></p>
@@ -97,7 +97,7 @@ menutitle: Experience
 
 ## Service:  
 
-<p><b>NES Division Lead: </b><a href="https://braingenix.org" style="color: blue">BrainGenix, Carboncopies Foundation (2022)</a>
+<p><b>NES Division Lead: </b><a href="https://braingenix.org/divisions/nes/" style="color: blue">BrainGenix, Carboncopies Foundation (2022)</a>
 <br><a style="font-size: 14px;">Serving as the lead of the Neuron Emulation System division at BrainGenix.</a></p>
 
 <p><b>Peer Reviewer: </b><a href="https://www.springer.com/journal/10922" style="color: blue">Journal of Network and Systems Management (2020)</a>
