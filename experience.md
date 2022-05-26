@@ -6,7 +6,7 @@ menutitle: Experience
 <a></a>
 ## Currently
 
-<a style="font-size: 14px;">MEng CS student at Cornell University. Working on my MEng Project called ShadowSense at the HRC2 lab under Prof. Guy Hoffman. </a>
+<a style="font-size: 14px;">MEng CS student at Cornell University. </a>
 
 ## Education
 
@@ -21,7 +21,7 @@ menutitle: Experience
 
 ## Research Experience
 
-`Feb 2022- Present`
+`Feb 2022- May 2022`
 <p><a href="https://hrc2.io/" style="color: blue">Human-Robot Collaboration and Companionship Lab, Cornell University</a>
 <br><a style="font-size: 14px;"><b>Master of Engineering Project</b></a>
 <br><a style="font-size: 14px;">Mentor: </a><a href="https://hrc2.io/people/guy-hoffman" style="color: blue;font-size: 14px;">Prof. Guy Hoffman</a>
