@@ -24,7 +24,7 @@ menutitle: Experience
 `Sep 2022- Present`
 <p><a href="http://cornell-asl.org/main/index.html" style="color: blue">Autonomous Systems Lab, Cornell University</a>
 <br><a style="font-size: 14px;"><b>Master of Engineering Project II</b></a>
-<br><a style="font-size: 14px;">Mentor: </a><a href="https://campbell.mae.cornell.edu/" style="color: blue;font-size: 14px;">Prof. Mark Campbell</a>
+<br><a style="font-size: 14px;">Mentor: </a><a href="https://campbell.mae.cornell.edu/mark-campbell/" style="color: blue;font-size: 14px;">Prof. Mark Campbell</a>
 <br><a style="font-size: 14px;">Topic: Reinforcement Learning Testbed for Autonomous Robot Navigation</a></p>
 
 `Feb 2022- Present`
