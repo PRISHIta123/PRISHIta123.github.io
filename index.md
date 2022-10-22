@@ -11,7 +11,7 @@ I am a Masters student in Computer Science at <a href="https://www.cornell.edu/"
 
 ## Updates: 
 
-- **[June 2022]**<a style="color: red">[New!]</a> Work on my GSoC project published in the 16th Linguistic Annotation Workshop (LAW-XVI) at LREC '22.  
+- **[June 2022]<a style="color: red">[New!]</a>** Work on my GSoC project published in the 16th Linguistic Annotation Workshop (LAW-XVI) at LREC '22.  
 - **[Feb 2022]** Joined the Human-Robot Collaboration and Companionship (HRC2) Lab. 
 - **[Jan 2022]** Started Masters program at Cornell University and selected as the lead of BrainGenix-NES. 
 - **[Sept 2021]** Started working as a Machine Learning Engineer at Harman X.
