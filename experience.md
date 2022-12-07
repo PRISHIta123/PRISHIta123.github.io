@@ -27,7 +27,7 @@ menutitle: Experience
 <br><a style="font-size: 14px;">Mentor: </a><a href="https://campbell.mae.cornell.edu/mark-campbell/" style="color: blue;font-size: 14px;">Prof. Mark Campbell</a>
 <br><a style="font-size: 14px;">Topic: Reinforcement Learning Testbed for Autonomous Robot Navigation</a></p>
 
-`Feb 2022- Present`
+`Feb 2022- Dec 2022`
 <p><a href="https://hrc2.io/" style="color: blue">Human-Robot Collaboration and Companionship Lab, Cornell University</a>
 <br><a style="font-size: 14px;"><b>Master of Engineering Project I, Graduate Researcher</b></a>
 <br><a style="font-size: 14px;">Mentor: </a><a href="https://hrc2.io/people/guy-hoffman" style="color: blue;font-size: 14px;">Prof. Guy Hoffman</a>
