@@ -10,7 +10,7 @@ menutitle: Experience
 
 ## Education
 
-`Jan 2022- Present`
+`Jan 2022- Dec 2022`
 <p><b>Cornell University, Ithaca, NY</b>
 <br><a style="font-size: 14px;">MEng, Computer Science (spec. in ML/AI)</a></p>
 
