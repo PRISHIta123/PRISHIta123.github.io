@@ -11,7 +11,7 @@ I am a Masters graduate in Computer Science from <a href="https://www.cornell.ed
 
 ## Updates: 
 
-- **[Dec 2022]<a style="color: red">[New!]</a>** Graduated from Cornell University
+- **[Dec 2022]<a style="color: red">[New!]</a>** Graduated from Cornell University.
 - **[June 2022]** Work on my GSoC project published in the 16th Linguistic Annotation Workshop (LAW-XVI) at LREC 2022.  
 - **[Feb 2022]** Joined the Human-Robot Collaboration and Companionship (HRC2) Lab. 
 - **[Jan 2022]** Started Masters program at Cornell University and selected as the lead of BrainGenix-NES. 
