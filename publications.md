@@ -6,7 +6,7 @@ menuorder: 2
 <a></a>
 ## Publications
 
-### Conference Proceedings
+### Workshops
 `2022`
 <div>
 <p><b>Charon: a FrameNet Annotation Tool for Multimodal Corpora</b>
@@ -16,6 +16,7 @@ menuorder: 2
 annotations.</a></p></details></p>
 </div>
 
+### Conference Proceedings
 `2021`
 <div>
 <p><b>A New Combined Model with Reduced Label Dependency for Malware Classification</b>
