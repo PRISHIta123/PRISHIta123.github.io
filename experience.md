@@ -6,7 +6,7 @@ menutitle: Experience
 <a></a>
 ## Currently
 
-<a style="font-size: 14px;">Working as a Data Engineer at American Express.</a>
+<a style="font-size: 14px;">Working at American Express.</a>
 
 ## Education
 
