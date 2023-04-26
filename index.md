@@ -5,13 +5,14 @@ menutitle: About Me
 menuorder: 1
 ---
 
-I am a Masters graduate in Computer Science from <a href="https://www.cornell.edu/" style="color: blue">Cornell University</a>. Previously, I completed my undergraduate studies in Computer Science and Engineering from <a href="https://vit.ac.in" style="color: blue">Vellore Institute of Technology (VIT, Vellore) India</a>. My fascination towards Deep Learning, Vision, Robotics and Cognitive AI inspired me to contribute in these domains through research as well as open-source. I always look forward to connecting with people having similar interests and exciting project ideas! You can reach out to me at pr376[at]cornell[dot]edu. 
+I am a Masters graduate in Computer Science from <a href="https://www.cornell.edu/" style="color: blue">Cornell University</a> and currently working for <a href="https://www.americanexpress.com/" style="color: blue">American Express</a>. Previously, I completed my undergraduate studies in Computer Science and Engineering from <a href="https://vit.ac.in" style="color: blue">Vellore Institute of Technology (VIT, Vellore) India</a>. My fascination towards Deep Learning, Vision, Robotics and Cognitive AI inspired me to contribute in these domains through research as well as open-source. I always look forward to connecting with people having similar interests and exciting project ideas! You can reach out to me at pr376[at]cornell[dot]edu. 
  
 
 
 ## Updates: 
 
-- **[Dec 2022]<a style="color: red">[New!]</a>** Graduated from Cornell University.
+- **[Apr 2023]**<a style="color: red">[New!]</a> Started working at American Express as a Data Engineer.
+- **[Dec 2022]** Graduated from Cornell University.
 - **[June 2022]** Work on my GSoC project published in the 16th Linguistic Annotation Workshop (LAW-XVI) at LREC 2022.  
 - **[Feb 2022]** Joined the Human-Robot Collaboration and Companionship (HRC2) Lab. 
 - **[Jan 2022]** Started Masters program at Cornell University and selected as the lead of BrainGenix-NES. 
