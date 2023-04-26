@@ -6,7 +6,7 @@ menutitle: Experience
 <a></a>
 ## Currently
 
-<a style="font-size: 14px;">MEng CS student at Cornell University. </a>
+<a style="font-size: 14px;">Working as a Data Engineer at American Express.</a>
 
 ## Education
 
@@ -103,10 +103,8 @@ menutitle: Experience
 
 ## Service:  
 
-<!--
 <p><b>NES Division Lead: </b><a href="https://braingenix.org/divisions/nes/" style="color: blue">BrainGenix, Carboncopies Foundation (2022)</a>
 <br><a style="font-size: 14px;">Serving as the lead of the Neuron Emulation System division at BrainGenix.</a></p>
--->
 
 <p><b>Peer Reviewer: </b><a href="https://www.springer.com/journal/10922" style="color: blue">Journal of Network and Systems Management (2020)</a>
 <br><a style="font-size: 14px;">Served as a reviewer in their special issue for Cybersecurity management in the era of AI.</a></p>
