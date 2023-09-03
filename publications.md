@@ -7,6 +7,14 @@ menuorder: 2
 ## Publications
 
 ### Workshops
+`2023`
+<div>
+<p><b>Improving Environment Robustness of Deep Reinforcement Learning Approaches for Autonomous Racing Using Bayesian Optimization-based Curriculum Learning</b>
+<br><a style="font-size: 14px; color:gray">Learning Robot Super Autonomy WorKshop @IROS 2023, Oct 2023</a>
+<details><summary style="color: #CC0000;font-size: 14px;text-decoration: underline;">Abstract</summary><p><a style="font-size: 14px;">Deep reinforcement learning (RL) approaches have been broadly applied to a large number of robotics tasks, such as robot manipulation and autonomous driving. However, an open problem in deep RL is learning policies that are robust to variations in the environment, which is an important condition for such systems to be deployed into real-world, unstructured settings. Curriculum learning is one approach that has been applied to improve generalization performance in both supervised and reinforcement learning domains, but selecting the appropriate curriculum to achieve robustness can be a user-intensive process. In our work, we show that performing probabilistic inference of the underlying curriculum-reward function using Bayesian Optimization can be a promising technique for finding a robust curriculum. We demonstrate that a curriculum found with Bayesian optimization can outperform a vanilla deep RL agent and a hand-engineered curriculum in the domain of autonomous racing with obstacle avoidance.</a></p></details></p>
+</div>
+
+
 `2022`
 <div>
 <p><b>Charon: a FrameNet Annotation Tool for Multimodal Corpora</b>
