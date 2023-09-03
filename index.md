@@ -11,7 +11,8 @@ I am a Masters graduate in Computer Science from <a href="https://www.cornell.ed
 
 ## Updates: 
 
-- **[June 2023]<a style="color: red">[New!]</a>** Paper accepted at the IEEE ICAIGE Conference 2023.
+- **[Sept 2023]<a style="color: red">[New!]</a>** Paper accepted at Learning Robot Super Autonomy workshop (IROS 2023).
+- **[June 2023]** Paper accepted at the IEEE ICAIGE Conference 2023.
 - **[Apr 2023]** Started working at American Express.
 - **[Dec 2022]** Graduated from Cornell University.
 - **[June 2022]** Work on my GSoC project published in the 16th Linguistic Annotation Workshop (LAW-XVI) at LREC 2022.  
