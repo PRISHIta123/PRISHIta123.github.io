@@ -33,9 +33,8 @@ menutitle: Experience
 <br><a style="font-size: 14px;">Mentor: </a><a href="https://campbell.mae.cornell.edu/mark-campbell/" style="color: blue;font-size: 14px;">Prof. Mark Campbell</a>
 <br><a style="font-size: 14px;">Topic: Reinforcement Learning Testbed for Autonomous Robot Navigation</a></p>
 
-`Volunteering`
 <p><a href="https://braingenix.org/" style="color: blue">Carboncopies Foundation - BrainGenix</a>
-<br><a style="font-size: 14px;"><b>Researcher</b></a>
+<br><a style="font-size: 14px;"><b>Research Volunteer</b></a>
 <br><a style="font-size: 14px;">Mentor: </a><a href="https://carboncopies.org/team-member/thomas-liao/" style="color: blue;font-size: 14px;">Thomas Liao</a>
 <br><a style="font-size: 14px;">Topic: BrainGenix-NES: A Novel Neuron Simulation Architecture for Whole Brain Emulation</a></p>
 
