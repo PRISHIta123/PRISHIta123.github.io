@@ -33,7 +33,7 @@ menutitle: Experience
 <br><a style="font-size: 14px;">Mentor: </a><a href="https://campbell.mae.cornell.edu/mark-campbell/" style="color: blue;font-size: 14px;">Prof. Mark Campbell</a>
 <br><a style="font-size: 14px;">Topic: Reinforcement Learning Testbed for Autonomous Robot Navigation</a></p>
 
-`Dec 2020- Present`
+`Volunteering`
 <p><a href="https://braingenix.org/" style="color: blue">Carboncopies Foundation - BrainGenix</a>
 <br><a style="font-size: 14px;"><b>Researcher</b></a>
 <br><a style="font-size: 14px;">Mentor: </a><a href="https://carboncopies.org/team-member/thomas-liao/" style="color: blue;font-size: 14px;">Thomas Liao</a>
@@ -103,8 +103,8 @@ menutitle: Experience
 
 ## Service:  
 
-<p><b>NES Division Lead: </b><a href="https://braingenix.org/divisions/nes/" style="color: blue">BrainGenix, Carboncopies Foundation (2022)</a>
-<br><a style="font-size: 14px;">Serving as the lead of the Neuron Emulation System division at BrainGenix.</a></p>
+<!-- <p><b>NES Division Lead: </b><a href="https://braingenix.org/divisions/nes/" style="color: blue">BrainGenix, Carboncopies Foundation (2022)</a>
+<br><a style="font-size: 14px;">Serving as the lead of the Neuron Emulation System division at BrainGenix.</a></p> -->
 
 <p><b>Peer Reviewer: </b><a href="https://www.springer.com/journal/10922" style="color: blue">Journal of Network and Systems Management (2020)</a>
 <br><a style="font-size: 14px;">Served as a reviewer in their special issue for Cybersecurity management in the era of AI.</a></p>
