@@ -1,0 +1,8 @@
+@article{banerjee2023improving,
+  title={Improving Environment Robustness of Deep Reinforcement Learning Approaches for Autonomous Racing Using Bayesian Optimization-based Curriculum Learning},
+  author={Banerjee, Rohan and Ray, Prishita and Campbell, Mark},
+  journal={Learning Robot Super Autonomy Workshop, IROS 2023},
+  doi={10.48550/arXiv.2312.10557}
+  year={2023},
+  primaryClass={cs.RO}
+}
