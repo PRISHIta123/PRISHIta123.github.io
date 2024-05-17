@@ -5,7 +5,7 @@ menutitle: About Me
 menuorder: 1
 ---
 
-I am a Masters graduate in Computer Science from <a href="https://www.cornell.edu/" style="color: blue">Cornell University</a> and currently working as a Research Assistant at the <a href="https://carey.jhu.edu/cdhai" style="color: blue">John Hopkins Center for Digital Health and Artificial Intelligence (CDHAI).</a>. Previously, I completed my undergraduate studies in Computer Science and Engineering from <a href="https://vit.ac.in" style="color: blue">Vellore Institute of Technology (VIT, Vellore) India</a>. My fascination towards Deep Learning, Vision, Robotics and Cognitive AI inspired me to contribute in these domains through research as well as open-source. I always look forward to connecting with people having similar interests and exciting project ideas! You can reach out to me at pr376[at]cornell[dot]edu. 
+I am a Masters graduate in Computer Science from <a href="https://www.cornell.edu/" style="color: blue">Cornell University</a> and currently working as a Research Assistant at the <a href="https://carey.jhu.edu/cdhai" style="color: blue">John Hopkins Center for Digital Health and Artificial Intelligence (CDHAI)</a>. Previously, I completed my undergraduate studies in Computer Science and Engineering from <a href="https://vit.ac.in" style="color: blue">Vellore Institute of Technology (VIT, Vellore) India</a>. My fascination towards Deep Learning, Vision, Robotics and Cognitive AI inspired me to contribute in these domains through research as well as open-source. I always look forward to connecting with people having similar interests and exciting project ideas! You can reach out to me at pr376[at]cornell[dot]edu. 
  
 
 
