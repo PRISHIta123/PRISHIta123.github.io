@@ -6,7 +6,7 @@ menutitle: Experience
 <a></a>
 ## Currently
 
-<a style="font-size: 14px;">Working at American Express.</a>
+<a style="font-size: 14px;">Working at the Center for Digital Health and Artificial Intelligence, John Hopkins University.</a>
 
 ## Education
 
@@ -68,6 +68,10 @@ menutitle: Experience
 <br><a style="font-size: 14px;">Topic: Contemporary Developments and Technologies in Deep Learning-based IoT</a></p>
 
 ## Engineering Experience
+
+`Apr 2023- Jan 2024`
+<p><a href="https://www.americanexpress.com/" style="color: blue">American Express, New York, United States</a>
+<br><a style="font-size: 14px;">Engineer III</a></p>
 
 `Sept 2021- Jan 2022`
 <p><a href="https://www.harman.com/India/innovation" style="color: blue">Harman International Pvt. Ltd., Bangalore, India</a>
