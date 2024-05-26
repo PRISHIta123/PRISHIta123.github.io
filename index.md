@@ -11,6 +11,7 @@ I am a Masters graduate in Computer Science from <a href="https://www.cornell.ed
 
 ## Updates: 
 
+- **[May 2024]<a style="color: red">[New!]</a>** Paper accepted at IEEE RO-MAN 2024.  
 - **[May 2024]<a style="color: red">[New!]</a>** Started working as a Research Assistant at JHU CDHAI.  
 - **[Sept 2023]** Paper accepted at Learning Robot Super Autonomy workshop (IROS 2023).
 - **[June 2023]** Paper accepted at the IEEE ICAIGE Conference 2023.
