@@ -8,8 +8,8 @@ menuorder: 2
 
 ### Conference Proceedings
 
-`2024`
 <ol>
+`2024`
 <div>
 <p><b>Performing Human Shadow Detection for Camera-Based Privacy-Preserving Human-Robot Interactions</b>
 <br>Yuhan Hu*, <b>Prishita Ray*</b>, Guy Hoffman
@@ -45,6 +45,8 @@ for managing floods efficiently and using renewable energy to run the control sy
 </ol>
 
 ### Workshops
+
+<ol>
 `2023`
 <div>
 <p><b>Improving Environment Robustness of Deep Reinforcement Learning Approaches for Autonomous Racing Using Bayesian Optimization-based Curriculum Learning</b>
@@ -64,6 +66,7 @@ for managing floods efficiently and using renewable energy to run the control sy
 <br><a href="http://www.lrec-conf.org/proceedings/lrec2022/workshops/LAWXVI/pdf/2022.lawxvi-1.11.pdf" style="color: cornflowerblue;font-size: 14px;text-align: right;">[Paper]</a> <a href="https://PRISHIta123.github.io/bib/4.bib" style="color: cornflowerblue;font-size: 14px;text-align: right;">[BibTeX]</a><details><summary style="color: cornflowerblue;font-size: 14px;text-decoration: underline;">Abstract</summary><p><a style="font-size: 14px;">Multimodality refers to the property of any communication phenomenon where two or more modes – defined as experientially recognized resources for meaning-making shaped by society and culture – are brought into play (Jewitt and Kress, 2003; Kress, 2010; Bateman et al., 2017). This paper approaches the expansion of FrameNet annotation into the multimodal domain, as proposed in Belcavello et al. (2020), by presenting Charon: a semi-automatic, human-in-the-loop tool for annotating static and dynamic images for semantic frames. Charon was developed to meet the following key requirements: (i) compatibility with existing FrameNet software; (ii) annotation of image with FrameNet categories; (iii) linkage of image and textual
 annotations.</a></p></details></p>
 </div>
+</ol>
 
 ### Book Chapters
 `2021`
