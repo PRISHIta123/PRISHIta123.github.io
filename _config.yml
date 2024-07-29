@@ -13,11 +13,10 @@ owner:
   # Do not include the @ symbol in your Twitter username
   linkedin: prishita-ray-46b2a7147
   github: PRISHIta123
-  orcid: 0000-0003-2129-4186
   researchgate: Prishita-Ray
   google:
     scholar: kapU0vUAAAAJ
-  stackoverflow: 9888714/prishita-ray
+  twitter: rayprishita
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
