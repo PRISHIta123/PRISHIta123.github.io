@@ -223,9 +223,6 @@ $button-size: 1.5rem;
 	@include clearfix;
 	clear: both;
 	padding-top: 2em;
-	border-top-width: 2em;
-	border-top-style: solid;
-	border-top-color: $lowlightcolor;
 	h1 {
 		margin-top: 0;
 	}
