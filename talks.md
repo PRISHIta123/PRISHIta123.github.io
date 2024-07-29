@@ -12,5 +12,5 @@ menuorder: 5
 
 ## Abstract
 
-Prishita worked with FrameNetBrasil on the project <a href="https://medium.com/@prishita.r85/a-new-frame-based-image-and-video-annotation-pipeline-my-gsoc-20-project-6daa9fe5f391" style="color: blue">New Frame-Based Image and Video Annotation Pipeline for the FrameNet Brasil Web Annotation Tool"</a> and successfully completed GSoC 2020. She shares her experience, her shortcomings and the journey to cracking GSoC'20 ultimately.
+Prishita worked with FrameNetBrasil on the project <a style="font-size: 14px;" href="https://medium.com/@prishita.r85/a-new-frame-based-image-and-video-annotation-pipeline-my-gsoc-20-project-6daa9fe5f391" style="color: cornflowerblue">New Frame-Based Image and Video Annotation Pipeline for the FrameNet Brasil Web Annotation Tool"</a> and successfully completed GSoC 2020. She shares her experience, her shortcomings and the journey to cracking GSoC'20 ultimately.
  
