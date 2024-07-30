@@ -14,7 +14,7 @@ I am a Masters graduate in Computer Science from <a href="https://www.cornell.ed
 - **[May 2024]** Paper accepted at  <a href="https://www.ro-man2024.org/" style="color: cornflowerblue">IEEE RO-MAN 2024</a>.  
 - **[May 2024]** Started working as a Research Assistant at <a href="https://carey.jhu.edu/cdhai" style="color: cornflowerblue">JHU CDHAI</a>.  
 - **[Sept 2023]** Paper accepted at <a href="https://wp.nyu.edu/workshopiros2023superautonomy/" style="color: cornflowerblue">Learning Robot Super Autonomy workshop (IROS 2023)</a>.
-- **[June 2023]** Paper accepted at the IEEE <a href="https://icaige.tn/" style="color: cornflowerblue">ICAIGE Conference 2023 </a>.
+- **[June 2023]** Paper accepted at the <a href="https://icaige.tn/" style="color: cornflowerblue">IEEE ICAIGE Conference 2023 </a>.
 
 
 
