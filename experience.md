@@ -30,30 +30,30 @@ menutitle: Experience
 <br><a style="font-size: 14px;">Topic: Developing Foundation Models for Medical Message Design, Diabetes Prediction and Management</a></p>
 
 `Sep 2022- Present`
-<p><b>[1]</b> <a href="http://cornell-asl.org/main/index.html" style="color: cornflowerblue">Autonomous Systems Lab, Cornell University</a>
+<p><b>[2]</b> <a href="http://cornell-asl.org/main/index.html" style="color: cornflowerblue">Autonomous Systems Lab, Cornell University</a>
 <br><a style="font-size: 14px;"><b>Master of Engineering Project II</b></a>
 <br><a style="font-size: 14px;">PI: </a><a href="https://campbell.mae.cornell.edu/mark-campbell/" style="color: cornflowerblue;font-size: 14px;">Prof. Mark Campbell</a>
 <br><a style="font-size: 14px;">Topic: Reinforcement Learning Testbed for Autonomous Robot Navigation</a></p>
 
 `Feb 2022- Aug 2024`
-<p><b>[2]</b> <a href="https://hrc2.io/" style="color: cornflowerblue">Human-Robot Collaboration and Companionship Lab, Cornell University</a>
+<p><b>[3]</b> <a href="https://hrc2.io/" style="color: cornflowerblue">Human-Robot Collaboration and Companionship Lab, Cornell University</a>
 <br><a style="font-size: 14px;"><b>Master of Engineering Project I, Graduate Researcher</b></a>
 <br><a style="font-size: 14px;">PI: </a><a href="https://hrc2.io/people/guy-hoffman" style="color: cornflowerblue;font-size: 14px;">Prof. Guy Hoffman</a>
 <br><a style="font-size: 14px;">Topic: ShadowSense</a></p>
 
 `May 2019- Jul 2019`
-<p><b>[3]</b> <a href="https://www.csa.iisc.ac.in" style="color: cornflowerblue">Stochastic Systems Lab, CSA, Indian Institute of Science</a>
+<p><b>[4]</b> <a href="https://www.csa.iisc.ac.in" style="color: cornflowerblue">Stochastic Systems Lab, CSA, Indian Institute of Science</a>
 <br><a style="font-size: 14px;"><b>SRFP Scholar</b></a>
 <br><a style="font-size: 14px;">PI: </a><a href="https://www.csa.iisc.ac.in/~shalabh/" style="color: cornflowerblue;font-size: 14px;">Prof. Shalabh Bhatnagar</a>
 <br><a style="font-size: 14px;">Topic: Stochastic Game Frameworks for Efficient Energy Management in Microgrid Networks</a></p>
 
 `Jan 2021- Jun 2021`
-<p><b>[4] Undergraduate Capstone Project</b>
+<p><b>[5] Undergraduate Capstone Project</b>
 <br><a style="font-size: 14px;">PI: </a><a href="https://research.vit.ac.in/researcher/geraldine-bessie-amali-d" style="color: cornflowerblue;font-size: 14px;">Prof. Geraldine Bessie Amali D.</a>
 <br><a style="font-size: 14px;">Topic: Efficient Renewable Energy Powered Automatic Water Dam Control System</a></p>
 
 `Dec 2019- Feb 2021`
-<p><b>[5] Academic Research Project</b>
+<p><b>[6] Academic Research Project</b>
 <br><a style="font-size: 14px;">PI: </a><a href="https://research.vit.ac.in/researcher/kakelli-anil-kumar" style="color: cornflowerblue;font-size: 14px;">Dr. Kakelli Anil Kumar</a>
 <br><a style="font-size: 14px;">Topic: A New Combined Model with Reduced Label Dependency for Malware Classification</a></p>
 
