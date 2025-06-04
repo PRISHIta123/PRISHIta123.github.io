@@ -4,9 +4,12 @@ menuorder: 3
 menutitle: Experience
 ---
 <a></a>
+
+<!--
 ## Currently
 
 <a style="font-size: 14px;">Working at the Center for Digital Health and Artificial Intelligence, Johns Hopkins University.</a>
+-->
 
 ## Education
 
@@ -20,6 +23,11 @@ menutitle: Experience
 
 
 ## Research Experience
+
+`May 2024- May 2025`
+<p><b>[1]</b> <a href="https://cdhai.carey.jhu.edu/" style="color: cornflowerblue">Johns Hopkins University, Center for Digital Health and AI</a>
+<br><a style="font-size: 14px;"><b>Research Assistant</b></a>
+<br><a style="font-size: 14px;">Topic: Developing Foundation Models for Medical Message Design, Diabetes Prediction and Management</a></p>
 
 `Sep 2022- Present`
 <p><b>[1]</b> <a href="http://cornell-asl.org/main/index.html" style="color: cornflowerblue">Autonomous Systems Lab, Cornell University</a>
