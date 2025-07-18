@@ -1,7 +1,7 @@
 ---
 layout: resume
 menutitle: Awards
-menuorder: 4
+menuorder: 5
 ---
 <a></a>
 ## Awards and Recognition
