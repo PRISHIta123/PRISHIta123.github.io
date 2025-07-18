@@ -41,7 +41,7 @@ menuorder: 3
 <h3 style="text-align: center;"> III. Learned Control</h3>
 
 <div style="text-align: center;">
-<video style="width: 500; height: auto;" controls>
+<video style="width: 300; height: auto;" controls>
   <source src="https://PRISHIta123.github.io/assets/PPO_RL.mp4" type="video/mp4">
 </video>
 <p style="text-align: center; font-weight: bold;">1.1 Reinforcement Learning- With End Effector Goal Target (on Franka Panda) </p>
