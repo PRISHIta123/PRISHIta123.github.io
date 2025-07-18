@@ -44,28 +44,28 @@ menuorder: 3
 <video style="width: 600px; height: auto;" controls>
   <source src="https://PRISHIta123.github.io/assets/PPO_RL.mp4" type="video/mp4">
 </video>
-<p style="text-align: center; font-weight: bold;">2.1 Reinforcement Learning- With End Effector Goal Target (on Franka Panda) </p>
+<p style="text-align: center; font-weight: bold;">1.1 Reinforcement Learning- With End Effector Goal Target (on Franka Panda) </p>
 </div>
 
 <div style="text-align: center;">
 <video style="width: 300px; height: auto;" controls>
   <source src="https://PRISHIta123.github.io/assets/both_trainer_c.mp4" type="video/mp4">
 </video>
-<p style="text-align: center; font-weight: bold;">2.2 Reinforcement Learning with Adversarial Curriculum Generation (in OpenAI Gym CarRacing Obstacles Environment )</p>
+<p style="text-align: center; font-weight: bold;">1.2 Reinforcement Learning with Adversarial Curriculum Generation (in OpenAI Gym CarRacing Obstacles Environment )</p>
 </div>
 
 <div style="text-align: center;">
 <video style="width: 300px; height: auto;" controls>
   <source src="https://PRISHIta123.github.io/assets/expert_trajectory.mp4" type="video/mp4">
 </video>
-<p style="text-align: center; font-weight: bold;">3.1 Behavior Cloning on Franka Panda- Expert Trajectory</p>
+<p style="text-align: center; font-weight: bold;">2.1 Behavior Cloning on Franka Panda- Expert Trajectory</p>
 </div>
 
 <div style="text-align: center;">
 <video style="width: 300px; height: auto;" controls>
   <source src="https://PRISHIta123.github.io/assets/predicted_trajectory.mp4" type="video/mp4">
 </video>
-<p style="text-align: center; font-weight: bold;">3.2 Behavior Cloning on Franka Panda- Predicted Trajectory</p>
+<p style="text-align: center; font-weight: bold;">2.2 Behavior Cloning on Franka Panda- Predicted Trajectory</p>
 </div>
 
 
