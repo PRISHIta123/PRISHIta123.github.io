@@ -39,7 +39,7 @@ menuorder: 3
 </div>
 
 <div style="text-align: center;">
-<video style="width: 300px; height: auto;" controls>
+<video style="width: 600px; height: auto;" controls>
   <source src="https://PRISHIta123.github.io/assets/PPO_RL.mp4" type="video/mp4">
 </video>
 <p style="text-align: center; font-weight: bold;">2.1 Reinforcement Learning- With End Effector Goal Target (on Franka Panda) </p>
