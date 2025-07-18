@@ -29,7 +29,7 @@ menuorder: 3
 <p style="text-align: center; font-weight: bold;">3. Impedance Control on Franka Panda</p>
 </div>
 
-<h3 style="text-align: center;"> II. Learned Control</h3>
+<h3 style="text-align: center;"> II. Perception-based Control</h3>
 
 <div style="text-align: center;">
 <video style="width: 300px; height: auto;" controls>
@@ -37,6 +37,8 @@ menuorder: 3
 </video>
 <p style="text-align: center; font-weight: bold;">1. Real-Time Privacy-Preserved Human Detection and Tracking using EfficientNet-V2 and Stereo Mapping (on Reachy by Pollen Robotics)</p>
 </div>
+
+<h3 style="text-align: center;"> III. Learned Control</h3>
 
 <div style="text-align: center;">
 <video style="width: 600px; height: auto;" controls>
@@ -67,7 +69,7 @@ menuorder: 3
 </div>
 
 
-<h3 style="text-align: center;">III. Teleoperation Control</h3>
+<h3 style="text-align: center;">IV. Teleoperation Control</h3>
 
 <div style="text-align: center;">
 <video style="width: 300; height: auto;" controls>
