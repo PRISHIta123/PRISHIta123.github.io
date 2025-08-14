@@ -27,4 +27,4 @@ menuorder: 3
 <p style="text-align: center; font-weight: bold;">Teleoperation Control on Dual-Arm Franka Panda using Hand Pose Detection from Webcam Feed</p>
 </div>
 
-Access the implementation of both classical control (IK, PD, impedance) and learned control algorithms in the LibFranka simulation <a href="https://github.com/PRISHIta123">here</a>. 
+Access the implementation of both classical control (IK, PD, impedance) and learned control algorithms in the LibFranka simulation <a href="https://github.com/PRISHIta123" style="color: cornflowerblue">here</a>. 
