@@ -14,7 +14,7 @@ menuorder: 3
 </div>
 
 <div style="text-align: center;">
-<video style="width: 300; height: auto;" controls>
+<video style="width: 700px; height: auto;" controls>
   <source src="https://PRISHIta123.github.io/assets/both_trainer_c.mp4" type="video/mp4">
 </video>
 <p style="text-align: center; font-weight: bold;">Reinforcement Learning with Adversarial Curriculum Generation (in OpenAI Gym CarRacing Obstacles Environment)</p>
