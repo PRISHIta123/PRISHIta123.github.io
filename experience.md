@@ -5,11 +5,11 @@ menutitle: Experience
 ---
 <a></a>
 
-<!--
+
 ## Currently
 
-<a style="font-size: 14px;">Working at the Center for Digital Health and Artificial Intelligence, Johns Hopkins University.</a>
--->
+<a style="font-size: 14px;">Working at NVIDIA Robotics.</a>
+
 
 ## Education
 
