@@ -11,7 +11,7 @@ I am a Masters graduate in Computer Science from <a href="https://www.cornell.ed
 
 ## Updates: 
 
-- **[Oct 2025]** Joining <a href="https://developer.nvidia.com/isaac" style="color: cornflowerblue">NVIDIA Robotics</a> as part of their Isaac Product Team.  
+- **[Oct 2025]** Joining <a href="https://www.nvidia.com/en-in/industries/robotics/" style="color: cornflowerblue">NVIDIA Robotics</a> as part of their Isaac Product Team.  
 - **[May 2024]** Paper accepted at  <a href="https://www.ro-man2024.org/" style="color: cornflowerblue">IEEE RO-MAN 2024</a>.  
 - **[May 2024]** Started working as a Research Assistant at <a href="https://carey.jhu.edu/cdhai" style="color: cornflowerblue">JHU CDHAI</a>.  
 - **[Sept 2023]** Paper accepted at <a href="https://wp.nyu.edu/workshopiros2023superautonomy/" style="color: cornflowerblue">Learning Robot Super Autonomy workshop (IROS 2023)</a>.
