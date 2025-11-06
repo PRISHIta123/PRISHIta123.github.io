@@ -27,7 +27,7 @@ menuorder: 3
 </div>
 
 <div style="text-align: center;">
-<video style="width: 300; height: auto;" controls>
+<video style="width: 700px; height: auto;" controls></video>
   <source src="https://PRISHIta123.github.io/assets/IsaacSim_Demo.mp4" type="video/mp4">
 </video>
 <p style="text-align: center; font-weight: bold;">Differential Driving with LiDAR Detection in NVIDIA Isaac Sim</p>
