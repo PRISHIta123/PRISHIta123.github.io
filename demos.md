@@ -14,9 +14,19 @@ menuorder: 3
 
 <div style="text-align: center;">
 <video style="width: 700px; height: auto;" controls>
-  <source src="https://PRISHIta123.github.io/assets/both_trainer_c.mp4" type="video/mp4">
+  <source src="https://PRISHIta123.github.io/assets/both_trainer_c_1.mp4" type="video/mp4">
 </video>
-<p style="text-align: center; font-weight: bold;">Reinforcement Learning with Adversarial Curriculum Generation (in OpenAI Gym CarRacing Obstacles Environment)</p>
+<video style="width: 700px; height: auto;" controls>
+  <source src="https://PRISHIta123.github.io/assets/both_trainer_c_2.mp4" type="video/mp4">
+</video>
+<p style="text-align: center; font-weight: bold;">Reinforcement Learning with Adversarial Curriculum Generation (in OpenAI Gym CarRacing Obstacles and Bipedal Walker with varying friction, slope and pit frequency environments</p>
+</div>
+
+<div style="text-align: center;">
+<video style="width: 700px; height: auto;" controls>
+  <source src="https://PRISHIta123.github.io/assets/dynamic_actors_eval.mp4" type="video/mp4">
+</video>
+<p style="text-align: center; font-weight: bold;">Goal-Based Navigation Policies in Isaac Sim Rivermark Environment with Dynamic Actors spawned using Actor SDG (Under Preparation)</p>
 </div>
 
 <div style="text-align: center;">
