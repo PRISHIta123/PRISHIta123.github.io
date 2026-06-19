@@ -14,11 +14,11 @@ menuorder: 3
 
 <div style="text-align: center;">
 
-  <video style="display: inline-block; width: 48%; max-width: 330px; min-width: 260px; height: 300px; object-fit: cover; vertical-align: top;" controls>
+  <video style="display: inline-block; width: 49%; max-width: 340px; min-width: 300px; height: 300px; object-fit: cover; vertical-align: top;" controls>
     <source src="https://PRISHIta123.github.io/assets/env1.mp4" type="video/mp4">
   </video>
 
-  <video style="display: inline-block; width: 48%; max-width: 330px; min-width: 260px; height: 300px; object-fit: cover; vertical-align: top;" controls>
+  <video style="display: inline-block; width: 49%; max-width: 340px; min-width: 300px; height: 300px; object-fit: cover; vertical-align: top;" controls>
     <source src="https://PRISHIta123.github.io/assets/env2.mp4" type="video/mp4">
   </video>
 
