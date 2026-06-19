@@ -12,17 +12,17 @@ menuorder: 3
 <p style="text-align: center; font-weight: bold;">ShadowSense: Real-Time Privacy-Preserved Human Detection and Tracking using EfficientNet-V2 and Stereo Mapping (on Reachy by Pollen Robotics)</p>
 </div>
 
-<div style="text-align: center; font-size: 0;">
+<div style="text-align: center;">
 
-  <video style="display: inline-block; width: 340px; max-width: 48%; height: 320px; object-fit: cover; vertical-align: top; font-size: initial;" controls>
+  <video style="display: inline-block; width: 48%; max-width: 330px; min-width: 260px; height: 300px; object-fit: cover; vertical-align: top;" controls>
     <source src="https://PRISHIta123.github.io/assets/env1.mp4" type="video/mp4">
   </video>
 
-  <video style="display: inline-block; width: 340px; max-width: 48%; height: 320px; object-fit: cover; vertical-align: top; font-size: initial;" controls>
+  <video style="display: inline-block; width: 48%; max-width: 330px; min-width: 260px; height: 300px; object-fit: cover; vertical-align: top;" controls>
     <source src="https://PRISHIta123.github.io/assets/env2.mp4" type="video/mp4">
   </video>
 
-  <p style="margin-top: 10px; text-align: center; font-weight: bold; font-size: initial;">
+  <p style="margin-top: 10px; text-align: center; font-weight: bold;">
     Reinforcement Learning with Adversarial Curriculum Generation (in OpenAI Gym CarRacing Obstacles and Bipedal Walker with varying friction, slope and pit frequency)
   </p>
 
