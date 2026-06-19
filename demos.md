@@ -13,12 +13,13 @@ menuorder: 3
 </div>
 
 <div style="text-align: center;">
-<video style="width: 700px; height: auto;" controls>
-  <source src="https://PRISHIta123.github.io/assets/both_trainer_c_1.mp4" type="video/mp4">
-</video>
-<video style="width: 700px; height: auto;" controls>
-  <source src="https://PRISHIta123.github.io/assets/both_trainer_c_2.mp4" type="video/mp4">
-</video>
+  <video style="width: 350px; height: 320px; object-fit: cover;" controls>
+    <source src="https://PRISHIta123.github.io/assets/env1.mp4" type="video/mp4">
+  </video>
+
+  <video style="width: 350px; height: 320px; object-fit: cover;" controls>
+    <source src="https://PRISHIta123.github.io/assets/env2.mp4" type="video/mp4">
+  </video>
 <p style="text-align: center; font-weight: bold;">Reinforcement Learning with Adversarial Curriculum Generation (in OpenAI Gym CarRacing Obstacles and Bipedal Walker with varying friction, slope and pit frequency)</p>
 </div>
 
