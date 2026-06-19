@@ -13,12 +13,12 @@ menuorder: 3
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
-  
-  <video style="width: 340px; height: 320px; object-fit: cover;" controls>
+
+  <video style="width: 340px; height: 320px; object-fit: cover; flex: 0 0 auto;" controls>
     <source src="https://PRISHIta123.github.io/assets/env1.mp4" type="video/mp4">
   </video>
 
-  <video style="width: 340px; height: 320px; object-fit: cover;" controls>
+  <video style="width: 340px; height: 320px; object-fit: cover; flex: 0 0 auto;" controls>
     <source src="https://PRISHIta123.github.io/assets/env2.mp4" type="video/mp4">
   </video>
 
