@@ -30,7 +30,7 @@ menuorder: 3
 
 <div style="text-align: center;">
 <video style="width: 700px; height: auto;" controls>
-  <source src="https://PRISHIta123.github.io/assets/dynamic_actors_eval.mp4" type="video/mp4">
+  <source src="https://PRISHIta123.github.io/assets/G1_Walking_dynamic_actors_eval.mp4" type="video/mp4">
 </video>
 <p style="text-align: center; font-weight: bold;">Goal-Based Navigation Policies in Isaac Sim Rivermark Environment with Dynamic Actors spawned using Actor SDG (Under Preparation)</p>
 </div>
