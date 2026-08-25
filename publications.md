@@ -6,6 +6,17 @@ menuorder: 2
 <a></a>
 ## Publications
 
+### Preprints
+
+`2026`
+<div>
+<p><b>[1] Curriculum Generation under Structured Parametric Environments for Robust Navigation Policies</b>
+<br><a style="font-size: 14px;"><b>Prishita Ray</b></a>
+<br><a href="https://arxiv.org/abs/2608.08545" style="color: cornflowerblue;font-size: 14px;text-align: right;">[Paper]</a> <a href="https://PRISHIta123.github.io/bib/8.bib" style="color: cornflowerblue;font-size: 14px;text-align: right;">[BibTeX]</a>
+<details><summary style="color: cornflowerblue;font-size: 14px;text-decoration: underline;">Abstract</summary><p><a style="font-size: 14px;">Robust navigation policies for autonomous agents must generalize across continuously varying environmental conditions such as turn rates, obstacles, friction, pits, and slopes. Curriculum generation provides a principled mechanism for improving generalization by progressively adapting training environments, but designing such curricula in a sample-efficient and automated manner remains challenging. This paper proposes a reparameterized curriculum generation framework for structured continuous environment parameters using unidirectional gradient-based optimization. To improve robustness in multimodal observation spaces consisting of image-based and scalar inputs, a distribution-shift regularization objective is incorporated to encourage the learning of finer-grained latent representations. The proposed method is evaluated across two continuous-control OpenAI Gym environments: a 2D obstacle-based Car Racing variant and Bipedal Walker variant, where coupled environment parameters jointly influence policy performance. Across five random seeds, our method consistently outperforms vanilla policy training, random parameter sampling, manual curricula, frontier-based methods, Self-Paced Reinforcement Learning (SPRL), Absolute Learning Progress with Gaussian Mixture Models (ALP-GMM), and reverse curriculum learning baselines. Ablation studies further demonstrate the effectiveness of the reparameterized curriculum mechanism across both environments, while highlighting environment-dependent benefits of the auxiliary regularization objective.
+</a></p></details></p>
+</div>
+
 ### Conference Proceedings
 
 `2024`
