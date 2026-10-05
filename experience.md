@@ -8,7 +8,7 @@ menutitle: Experience
 
 ## Currently
 
-<a style="font-size: 14px;">Working at NVIDIA Robotics.</a>
+<a style="font-size: 14px;">Working at Festo.</a>
 
 
 ## Education
@@ -60,24 +60,28 @@ menutitle: Experience
 
 ## Engineering Experience
 
+`Oct 2025- Oct 2026`
+<p><b>[1]</b> <a href="https://www.nvidia.com/en-gb/industries/robotics/" style="color: cornflowerblue">NVIDIA Robotics, India</a>
+<br><a style="font-size: 14px;">Software Test Development Engineer- Robotics</a></p>
+
 `Apr 2023- Jan 2024`
-<p><b>[1]</b> <a href="https://www.americanexpress.com/" style="color: cornflowerblue">American Express, New York, United States</a>
+<p><b>[2]</b> <a href="https://www.americanexpress.com/" style="color: cornflowerblue">American Express, New York, United States</a>
 <br><a style="font-size: 14px;">Engineer III</a></p>
 
 `Sept 2021- Jan 2022`
-<p><b>[2]</b> <a href="https://www.harman.com/India/innovation" style="color: cornflowerblue">Harman International Pvt. Ltd., Bangalore, India</a>
+<p><b>[3]</b> <a href="https://www.harman.com/India/innovation" style="color: cornflowerblue">Harman International Pvt. Ltd., Bangalore, India</a>
 <br><a style="font-size: 14px;">Associate ML Engineer</a></p>
 
 `May 2020- Jul 2020`
-<p><b>[3]</b> <a href="https://www.visa.co.in" style="color: cornflowerblue">Visa Inc., Bangalore, India</a>
+<p><b>[4]</b> <a href="https://www.visa.co.in" style="color: cornflowerblue">Visa Inc., Bangalore, India</a>
 <br><a style="font-size: 14px;">Software Engineering Intern</a></p>
 
 `Feb 2020- Jun 2020`
-<p><b>[4]</b> <a href="https://www.hpe.com/in/en/home.html" style="color: cornflowerblue">Hewlett Packard Enterprise, Bangalore, India</a>
+<p><b>[5]</b> <a href="https://www.hpe.com/in/en/home.html" style="color: cornflowerblue">Hewlett Packard Enterprise, Bangalore, India</a>
 <br><a style="font-size: 14px;">HPE CTY Program Intern</a></p>
 
 `Dec 2019- Jul 2020`
-<p><b>[5]</b> <a href="https://research.samsung.com/sri-b" style="color: cornflowerblue">Samsung R&D Institute, Bangalore, India</a>
+<p><b>[6]</b> <a href="https://research.samsung.com/sri-b" style="color: cornflowerblue">Samsung R&D Institute, Bangalore, India</a>
 <br><a style="font-size: 14px;">PRISM Project Developer</a></p>
 
 
